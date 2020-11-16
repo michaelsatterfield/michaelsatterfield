@@ -1,5 +1,4 @@
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![Michaels github stats](https://github-readme-stats.vercel.app/api?username=michaelsatterfield)](https://github.com/michaelsatterfield/github-readme-stats)
 
 
 - 🔭 I’m currently working on ...
