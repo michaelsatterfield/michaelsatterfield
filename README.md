@@ -1,6 +1,6 @@
 [![Michaels github stats](https://github-readme-stats.vercel.app/api?username=michaelsatterfield)](https://github.com/michaelsatterfield/github-readme-stats)
 
-![](https://img.shields.io/badge/hello-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java/Spring
 - 👯 I’m looking to collaborate on ...
