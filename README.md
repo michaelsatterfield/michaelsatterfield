@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-JQUERY-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-- 🔭 I’m Just finished working on a Mock Craigslist App with a group.
+- 🔭 I’ve Just finished working on a Mock Craigslist App in a group project setting.
 - 🌱 I’m currently learning Spring Framework for Java.
 
 -->
