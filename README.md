@@ -10,5 +10,5 @@
 ![](https://img.shields.io/badge/Framework-JQUERY-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 - 🔭 I’ve Just finished working on a Mock Craigslist App in a group project setting.
 - 🌱 I’m currently learning Spring Framework for Java.
+- 🌱 I’m currently learning React Framework and Node.js.
 
--->
