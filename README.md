@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/Framework-JQUERY-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 - 🔭 I’ve Just finished working on a Mock Craigslist App in a group project setting.
-- 🌱 I’m currently working on a 3D design website with Spring Framework for Java.
-- 🌱 I’m currently learning React Framework and Node.js.
+- 🌱 I've Just finished building a 3D design website with Spring Framework for Java. www.squarecubed.xyz
+- 🎓 I recently Graduated from Codeup(San Antonio)in Full Stack Web Development. 
+- 🤖 I’m currently learning React Framework and Node.js.
 
