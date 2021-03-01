@@ -12,5 +12,5 @@
 - 🔭 I’ve Just finished working on a Mock Craigslist App in a group project setting.
 - 🌱 I've Just finished building a 3D design website with Spring Framework for Java. www.squarecubed.xyz
 - 🎓 I recently Graduated from Codeup(San Antonio)in Full Stack Web Development. 
-- 🤖 I’m currently learning React Framework and Node.js.
+- 🤖 I’m currently learning React and Node.js.
 
