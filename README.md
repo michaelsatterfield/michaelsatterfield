@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-ReactNative-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-- 🤖 I’m currently Building a web based app for a SAAF.
+- 🤖 I’m currently Building a Custom Wordpress Theme with PHP, JS, Jquery, CSS.
 - 🌱 Built a 3D design website with Spring Framework for Java. www.squarecubed.xyz
 - 🎓 Graduated from Codeup(San Antonio)in Full Stack Web Development. 
 - 🤖 I’m building projects with React and Node.js.
